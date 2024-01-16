@@ -25,5 +25,7 @@ live sass compiler  설치하기
 ![image](https://github.com/yunshinhee/scss/assets/145514638/8ce608a0-77e0-4701-a38e-4b9e24fa447a)
 2️⃣ "savePath": null, --> null이면 scss파일과 같은 위치에 style.css가 생긴다
 ![image](https://github.com/yunshinhee/scss/assets/145514638/fa811fec-96c7-4277-81f1-0af44c64bcf4)
-2️⃣ "savePath": "~/css", --> ~는 style.scss를 의미, /는 style,scss있는 폴더를 의미, scss파일과 같은 위치에 css폴더가 생성되고 그 css폴더 안에 컴파일된 style.css가 생긴다
+3️⃣ "savePath": "~/css", --> ~는 style.scss를 의미, /는 style,scss있는 폴더를 의미, scss파일과 같은 위치에 css폴더가 생성되고 그 css폴더 안에 컴파일된 style.css가 생긴다
+![image](https://github.com/yunshinhee/scss/assets/145514638/42acacc8-cedb-419d-8b43-840ef88479af)
+
 
