@@ -11,6 +11,7 @@ live sass compiler  설치하기
 ![image](https://github.com/yunshinhee/scss/assets/145514638/9d5ea207-e9a0-4fa0-b2d2-a7666c2741a8)
 
 # 주석
+토글라인(//)은 변환이 안되지만 , 토글 블럭(/* */)은 변환이됨
 ![image](https://github.com/yunshinhee/scss/assets/145514638/632f3fe7-90cf-46b9-82b9-878f756733e7)
 
 # nesting(네스팅): 품다
