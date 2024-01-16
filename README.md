@@ -19,3 +19,10 @@ live sass compiler  설치하기
 # nesting(네스팅): 품다
 ![image](https://github.com/yunshinhee/scss/assets/145514638/63a58b55-69b4-49ac-9bee-cf1f0154e535)
 
+
+# 저장경로
+settings에서 json파일 열기
+![image](https://github.com/yunshinhee/scss/assets/145514638/8ce608a0-77e0-4701-a38e-4b9e24fa447a)
+ "savePath": null, --> null이면 scss파일과 같은 위치에 style.css가 생긴다
+![image](https://github.com/yunshinhee/scss/assets/145514638/fa811fec-96c7-4277-81f1-0af44c64bcf4)
+
