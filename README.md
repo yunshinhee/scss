@@ -13,4 +13,6 @@ live sass compiler  설치하기
 
 ![image](https://github.com/yunshinhee/scss/assets/145514638/632f3fe7-90cf-46b9-82b9-878f756733e7)
 
+# 변환가능 
+![image](https://github.com/yunshinhee/scss/assets/145514638/63a58b55-69b4-49ac-9bee-cf1f0154e535)
 
