@@ -8,7 +8,8 @@ live sass compiler  설치하기
 ![image](https://github.com/yunshinhee/scss/assets/145514638/008fbfaf-4346-410b-ba61-a3e7412f6416)
 
 # 변환가능 
-![image](https://github.com/yunshinhee/scss/assets/145514638/9d5ea207-e9a0-4fa0-b2d2-a7666c2741a8)
+![Uploading image.png…]()
+
 
 # 주석
 토글라인(//)은 변환이 안되지만 , 토글 블럭(/* */)은 변환이됨
